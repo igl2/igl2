@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning React and Vue.
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me: LinkedIn.
+- 📫 How to reach me: LinkedIn
 
 <!---
 igl2/igl2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
