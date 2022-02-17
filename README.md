@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isaiah!
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning React and Vue.
-- 💞️ I’m looking to collaborate on any projects.
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Web Development
+- I’m looking to start my career
 - 📫 How to reach me: LinkedIn @ https://www.linkedin.com/in/isaiahlleva/ or Email @ isaiahlleva@gmail.com
 - Check out my website: https://igl2.github.io
 
