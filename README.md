@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Isaiah!
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development
-- I’m looking to start my career
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently developing my full stack web development skills
+- 💻 I’m looking to start my career
 - 📫 How to reach me: LinkedIn @ https://www.linkedin.com/in/isaiahlleva/ or Email @ isaiahlleva@gmail.com
-- Check out my website: https://igl2.github.io
+- 👨‍💻 Check out my website: https://igl2.github.io
 
 <!---
 igl2/igl2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
